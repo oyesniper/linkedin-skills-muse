@@ -1,0 +1,5 @@
+name: "linkedin-hook-extractor"
+title: "LinkedIn Hook Extractor"
+description: "Reverse-engineer the hook formula from a viral LinkedIn post and return a reusable template."
+category: "Work and knowledge"
+include_in_prompt: false

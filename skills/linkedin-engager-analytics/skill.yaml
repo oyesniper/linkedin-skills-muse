@@ -1,0 +1,5 @@
+name: "linkedin-engager-analytics"
+title: "LinkedIn Engager Analytics"
+description: "Segment the people who liked or commented on a LinkedIn post by ICP fit."
+category: "Work and knowledge"
+include_in_prompt: false

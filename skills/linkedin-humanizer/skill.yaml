@@ -1,0 +1,5 @@
+name: "linkedin-humanizer"
+title: "LinkedIn Humanizer"
+description: "Remove AI tells from LinkedIn posts and comments and audit a draft before publishing."
+category: "Work and knowledge"
+include_in_prompt: false

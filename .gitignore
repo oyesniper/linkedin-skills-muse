@@ -1,0 +1,21 @@
+# Secrets and local state — never commit these
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Python / editor / OS
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+
+# Muse local state
+*.muse-github-snapshot-sync.json
+*.muse-github-snapshot-sync.json.tmp-*
+
+# Upstream local scratch (gitignored upstream too)
+testing/

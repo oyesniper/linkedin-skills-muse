@@ -1,0 +1,5 @@
+name: "linkedin-repurposer"
+title: "LinkedIn Repurposer"
+description: "Repurpose content from another platform into a native LinkedIn post."
+category: "Work and knowledge"
+include_in_prompt: false

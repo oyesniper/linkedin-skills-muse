@@ -1,0 +1,5 @@
+name: "linkedin-thread-monitor"
+title: "LinkedIn Thread Monitor"
+description: "Track which LinkedIn comments earned author replies and flag the warm follow-up window."
+category: "Work and knowledge"
+include_in_prompt: false

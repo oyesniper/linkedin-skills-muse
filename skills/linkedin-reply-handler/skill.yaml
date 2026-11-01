@@ -1,0 +1,5 @@
+name: "linkedin-reply-handler"
+title: "LinkedIn Reply Handler"
+description: "Draft a reply to a LinkedIn comment, or sweep a whole thread and draft replies in one batch."
+category: "Work and knowledge"
+include_in_prompt: false

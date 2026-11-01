@@ -1,0 +1,5 @@
+name: "linkedin-profile-optimizer"
+title: "LinkedIn Profile Optimizer"
+description: "Audit and rewrite a LinkedIn profile end to end, covering headline, About, Featured, Experience, and Skills."
+category: "Work and knowledge"
+include_in_prompt: false

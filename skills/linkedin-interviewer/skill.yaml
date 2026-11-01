@@ -1,0 +1,5 @@
+name: "linkedin-interviewer"
+title: "LinkedIn Interviewer"
+description: "Interview the user to build a Story Bank of roles, numbers, turning points, and positions for future drafts."
+category: "Work and knowledge"
+include_in_prompt: false

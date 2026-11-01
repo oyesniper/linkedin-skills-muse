@@ -1,0 +1,5 @@
+name: "linkedin-comment-drafter"
+title: "LinkedIn Comment Drafter"
+description: "Draft a LinkedIn comment on someone else's post, or reshare it with commentary, in the user's voice."
+category: "Work and knowledge"
+include_in_prompt: false

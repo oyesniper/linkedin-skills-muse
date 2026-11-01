@@ -1,0 +1,5 @@
+name: "linkedin-content-planner"
+title: "LinkedIn Content Planner"
+description: "Generate a 7-day LinkedIn content plan from a theme, audience, and pillars."
+category: "Work and knowledge"
+include_in_prompt: false
